@@ -12,6 +12,24 @@ Try the module interface in the browser: [Open web preview](https://deskgram2.co
 
 If you want to compare rule-based replies and AI reply settings before installation, open the preview first. It gives a fast read on how the autoresponder block fits into a larger communication route.
 
+## Interface highlights
+
+### Main workspace
+
+![Autoresponder Main](assets/screenshots/autoresponder__main__en.png)
+
+### Exceptions
+
+![Exceptions](assets/screenshots/autoresponder__exceptions__en.png)
+
+### AI settings
+
+![AI Settings](assets/screenshots/autoresponder__ai-settings__en.png)
+
+### Reply rules
+
+![Reply Rules](assets/screenshots/autoresponder__rules__en.png)
+
 ## About the module
 
 | Parameter | What is inside |
