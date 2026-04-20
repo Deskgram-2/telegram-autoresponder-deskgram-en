@@ -1,14 +1,14 @@
-# Telegram Autoresponder with Deskgram 2
+﻿# Telegram Autoresponder with Deskgram 2
 
 Telegram Autoresponder is a Deskgram 2 module for automatic replies to incoming Telegram messages. It helps you keep communication alive without manual presence and can combine standard reply rules, exclusions, AI-generated answers, and a background reply layer for broader outreach routes.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers&lang=en)
 
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers&lang=en)
 
 If you want to compare rule-based replies and AI reply settings before installation, open the preview first. It gives a fast read on how the autoresponder block fits into a larger communication route.
 
@@ -115,4 +115,5 @@ Autoresponder is more focused on the broader incoming reply layer, while Neuro C
 
 - [Deskgram 2 website](https://deskgram2.com/)
 - [Deskgram 2 Telegram bot](https://t.me/DG2welcomebot)
-- [Open autoresponder web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers)
+- [Open autoresponder web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers&lang=en)
+
